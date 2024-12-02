@@ -7,7 +7,8 @@ There are many great free and open-source alternatives to closed source and/or p
 # ⚖️ Feature Comparison
 
 ```text
-✅ = Feature exists in at least a limited fashion
+✅ = Feature exists (natively) in at least a limited fashion
+🔌 = Feature exists in compatible plugin/extension
 🚧 = Feature may exist but may not be practical or officially released
 ❌ = Feature does not yet exist
 #️⃣ = Subjective measure of feature quality (on scale of 0-10)
