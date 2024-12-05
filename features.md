@@ -32,7 +32,7 @@ Is the project completely and forever 'Free', or does it have a subscription pla
 
 ## Demo
 
-Does the project provide a demo instance
+Does the project provide a demo instance (without having to install/download an app)
 
 ## Editor
 
@@ -162,7 +162,7 @@ Does the app provide a way to view note history or note revisions/versions?
 
 Does the app support searching notes and/or note contents?
 
-## Shortcuts
+## Custom Shortcuts
 
 Does the app support the customizing of keyboard shortcuts?
 
