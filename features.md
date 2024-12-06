@@ -34,6 +34,10 @@ Is the project completely and forever 'Free', or does it have a subscription pla
 
 Does the project provide a demo instance (without having to install/download an app)
 
+## Documentation
+
+Does the project include documentation?
+
 ## Editor
 
 What type of editor is used? (WYSIWYG, Markdown, etc.)
