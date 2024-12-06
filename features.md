@@ -92,7 +92,7 @@ Does the app support structured diagraming (i.e. mermaid diagrams, flow charts, 
 
 ## Docker
 
-Does the project provide a docker image? Are there example docker-compose deployments?
+Does the project provide a docker image that deploys the app? Are there example docker-compose deployments?
 
 ## Encryption
 
